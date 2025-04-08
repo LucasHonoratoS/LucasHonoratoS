@@ -20,11 +20,11 @@
 
 ### 🧠 Sobre mim
 
+- 📚 Curioso, autodidata e independente
 - 🎓 Formado em **Engenharia de Software** na Estácio  
 - 💻 +2 anos de experiência com **PHP, Laravel, JavaScript e MySQL**  
 - 🚀 Aumentando meus conhecimentos em **Python** e **Django** 
 - 🔍 Gosto de entender problemas a fundo e construir soluções diretas e eficientes
-- 📚 Curioso, autodidata e independente
 
 ---
 
