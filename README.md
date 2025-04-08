@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Honorato!</h1>
+<h1 align="center">Fala aí, eu sou o Lucas Honorato 👨‍💻</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack</strong> | Amante de tecnologia | Resolvo problemas com código 💻
+  Desenvolvedor Full Stack — focado em resolver problemas com código e entregar soluções na prática
 </p>
 
 <p align="center">
@@ -20,15 +20,15 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Graduando em **Engenharia de Software** pela Estácio  
-- 💻 +2 anos de experiência com **PHP, Laravel, JS e MySQL**  
-- 🚀 Estudando **Python** na FIAP  
-- 📚 Curioso, autodidata e apaixonado por aprender  
-- 💡 Motivado por criar soluções que geram impacto real
+- 🎓 Formado em **Engenharia de Software** na Estácio  
+- 💻 +2 anos de experiência com **PHP, Laravel, JavaScript e MySQL**  
+- 🚀 Estudando **Python** 
+- 🔍 Gosto de entender problemas a fundo e construir soluções diretas e eficientes
+- 📚 Curioso, autodidata e independente
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### ⚙️ Tecnologias que uso no dia a dia
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -52,13 +52,13 @@
 
 ### 🔥 Projeto em Destaque
 
-| 🧩 Projeto | ⚙️ Tecnologias | 📝 Descrição |
-|-----------|----------------|--------------|
-| [Sistema de Vendas](https://github.com/LucasHonoratoS/teste_sistema_vendas) | Laravel, JavaScript, jQuery, Bootstrap, Chart.js, MySQL | Sistema completo com gestão de vendas, parcelas e dashboards dinâmicos |
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [Sistema de Vendas](https://github.com/LucasHonoratoS/teste_sistema_vendas) | Laravel, JavaScript, jQuery, Bootstrap, Chart.js, MySQL | Sistema completo com controle de vendas, parcelas e dashboards interativos |
 
 ---
 
-### 📬 Como falar comigo?
+### 📬 Contato direto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucashsds/" target="_blank">🔗 LinkedIn</a> • 
@@ -68,4 +68,4 @@
 
 ---
 
-<p align="center">⭐ Obrigado por visitar meu perfil! Vamos criar algo incrível juntos.</p>
+<p align="center">Valeu por passar aqui! Se quiser trocar ideia ou colaborar em algo, tamo junto 🚀</p>
