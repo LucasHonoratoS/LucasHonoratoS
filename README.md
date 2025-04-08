@@ -55,6 +55,8 @@
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
 | [Sistema de Vendas](https://github.com/LucasHonoratoS/teste_sistema_vendas) | Laravel, JavaScript, jQuery, Bootstrap, Chart.js, MySQL | Sistema completo com controle de vendas, parcelas e dashboards interativos |
+| [Sistema de Gestão de Projetos](https://github.com/LucasHonoratoS/https://github.com/LucasHonoratoS/Gestor-Projetos) | PHP, Laravel, MySQL, Bootstrap, JavaScript | Plataforma para criação e gerenciamento de projetos, tarefas e status em tempo real |
+
 
 ---
 
