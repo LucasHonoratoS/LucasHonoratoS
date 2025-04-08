@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí, eu sou o Lucas Honorato 👨‍💻</h1>
+<h1 align="center">Olá, eu sou o Lucas Honorato 👨‍💻</h1>
 
 <p align="center">
   Desenvolvedor Full Stack — focado em resolver problemas com código e entregar soluções na prática
