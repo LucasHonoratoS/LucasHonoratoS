@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-link" target="_blank">
+  <a href="https://www.linkedin.com/in/lucashsds/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:luca.honoratosds@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511940427778" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -18,10 +21,10 @@
 ### 🧠 Sobre mim
 
 - 🎓 Graduando em **Engenharia de Software** pela Estácio  
-- 🧑‍💻 +2 anos de experiência com **PHP, Laravel, JS e MySQL**  
-- 🚀 Atualmente estudando **Python** na FIAP  
-- 📚 Curioso, autodidata e sempre buscando evoluir  
-- 💡 Apaixonado por criar soluções que realmente fazem a diferença
+- 💻 +2 anos de experiência com **PHP, Laravel, JS e MySQL**  
+- 🚀 Estudando **Python** na FIAP  
+- 📚 Curioso, autodidata e apaixonado por aprender  
+- 💡 Motivado por criar soluções que geram impacto real
 
 ---
 
@@ -47,21 +50,22 @@
 
 ---
 
-### 🔥 Projetos em Destaque
+### 🔥 Projeto em Destaque
 
-| Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| [Sistema de Gestão de Projetos](https://github.com/LucasHonoratoS/sistema-projetos) | Laravel, Bootstrap, Kanban | Sistema completo com controle de tarefas e permissões |
-| [Dashboard de Vendas](https://github.com/LucasHonoratoS/dashboard-vendas) | Laravel, Chart.js | Gráficos dinâmicos por função (Gerente, Supervisor, etc.) |
-| [Calculadora de Projeção](https://github.com/LucasHonoratoS/calculadora-vendas) | PHP, JavaScript | Projeção de metas com regras de negócio personalizadas |
+| 🧩 Projeto | ⚙️ Tecnologias | 📝 Descrição |
+|-----------|----------------|--------------|
+| [Sistema de Vendas](https://github.com/LucasHonoratoS/teste_sistema_vendas) | Laravel, JavaScript, jQuery, Bootstrap, Chart.js, MySQL | Sistema completo com gestão de vendas, parcelas e dashboards dinâmicos |
 
 ---
 
-### 📫 Contato
+### 📬 Como falar comigo?
 
-- 🌐 [LinkedIn](https://linkedin.com/in/seu-link)
-- 📧 Email: seuemail@email.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucashsds/" target="_blank">🔗 LinkedIn</a> • 
+  <a href="mailto:luca.honoratosds@gmail.com" target="_blank">📧 Email</a> • 
+  <a href="https://wa.me/5511940427778" target="_blank">💬 WhatsApp</a>
+</div>
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Vamos criar algo incrível juntos.
+<p align="center">⭐ Obrigado por visitar meu perfil! Vamos criar algo incrível juntos.</p>
